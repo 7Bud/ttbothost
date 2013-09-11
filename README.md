@@ -8,7 +8,7 @@ What does it do?
 
 You login, upload your bot and if you need to start/stop. IT WILL!
 
-Cool! How can I use this and then host it?
+Cool! How can I use and then host it?
 =========
 
 1. Get the file by cloning it or getting the zip of it.
